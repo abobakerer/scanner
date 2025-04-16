@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744428166 source:d:\abo baker\collage\third_year\sec_sem\compiler\lap\assignment_3\sccaner\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
